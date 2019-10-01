@@ -2,6 +2,8 @@
 
 A new Flutter application.
 
+调整信息，验证异常冲突
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
