@@ -2,7 +2,7 @@
 
 A new Flutter application.
 
-调整信息，验证异常冲突ddddd
+调整信息，
 
 ## Getting Started
 
