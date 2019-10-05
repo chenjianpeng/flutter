@@ -2,7 +2,7 @@
 
 A new Flutter application.
 
-调整信息，
+冲突第一次提交
 
 ## Getting Started
 
